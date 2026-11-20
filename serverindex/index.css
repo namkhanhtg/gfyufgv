@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.Container{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.topContainer{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
+
+.bottomContainer{
+    display:flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
